@@ -1,0 +1,28 @@
+{
+    "products": [
+        {
+            "id":1,
+            "title": "Ao Nam",
+            "image": "https://cf.shopee.vn/file/vn-11134201-23010-2p3k6f3o6t1g6e",
+            "price": 200000,
+            "quantity": 1,
+            "category": "Menswear"
+        },
+        {
+            "id":2,
+            "title": "Quan Nam",
+            "image": "https://cf.shopee.vn/file/vn-11134201-23010-1k4t4c6o4g3g6e",
+            "price": 250000,
+            "quantity": 1,
+            "category": "Menswear"
+        },
+        {
+            "id":3,
+            "title": "Vay Nu",
+            "image": "https://cf.shopee.vn/file/vn-11134201-23010-1k4t4c6o4g3g6e",
+            "price": 20000000,
+            "quantity": 1,
+            "category": "Womenswear"
+        }
+    ]
+}
