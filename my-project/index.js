@@ -9,7 +9,10 @@ const rawHTML = (product) => {
     <td> ${product.price} </td>
     <td> ${product.quantity} </td>
     <td> ${product.category} </td>
-    <td> <button onClick="handleDelete(${product.id})" class="btn btn-danger"> Delete </button> </td>
+    <td>
+        <button onClick="handleDelete(${product.id})" class="btn btn-danger"> Delete </button>
+        <a class="btn btn-primary" href="update.html?id=${product.id}">Update </a>
+    </td>
   </tr>
   `;
 };
